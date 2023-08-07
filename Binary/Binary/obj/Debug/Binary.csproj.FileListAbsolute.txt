@@ -1,0 +1,11 @@
+D:\M\Day-21\Assignment24\Binary\Binary\bin\Debug\Binary.exe.config
+D:\M\Day-21\Assignment24\Binary\Binary\bin\Debug\Binary.exe
+D:\M\Day-21\Assignment24\Binary\Binary\bin\Debug\Binary.pdb
+D:\M\Day-21\Assignment24\Binary\Binary\bin\Debug\EmployeeLib.dll
+D:\M\Day-21\Assignment24\Binary\Binary\bin\Debug\EmployeeLib.pdb
+D:\M\Day-21\Assignment24\Binary\Binary\obj\Debug\Binary.csproj.AssemblyReference.cache
+D:\M\Day-21\Assignment24\Binary\Binary\obj\Debug\Binary.csproj.SuggestedBindingRedirects.cache
+D:\M\Day-21\Assignment24\Binary\Binary\obj\Debug\Binary.csproj.CoreCompileInputs.cache
+D:\M\Day-21\Assignment24\Binary\Binary\obj\Debug\Binary.csproj.CopyComplete
+D:\M\Day-21\Assignment24\Binary\Binary\obj\Debug\Binary.exe
+D:\M\Day-21\Assignment24\Binary\Binary\obj\Debug\Binary.pdb
